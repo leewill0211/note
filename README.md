@@ -6,5 +6,6 @@ http://pdf.ebook23.com/ebook/5_mybatis%E7%9B%B8%E5%85%B3/MyBatis%E4%BB%8E%E5%85%
 
 https://www.jb51.net/books/623563.html
 
-各种书单：
-https://xu1009.github.io/2017/09/04/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E5%A4%A7%E7%A5%9E%E7%BB%99%E6%8E%A8%E8%8D%90%E7%9A%84%E4%B9%A6%E7%B1%8D%E5%93%88/
+Kafka技术内幕：图文详解Kafka源码设计与实现
+Java核心技术 卷1 基础知识 原书第10版
+Java核心技术 卷2 高级特性 原书第10版
