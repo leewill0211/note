@@ -9,7 +9,7 @@ https://www.jb51.net/books/623563.html
 
 Kafka技术内幕：图文详解Kafka源码设计与实现
 
-《深入理解Kafka：核心设计与实践原理》_朱忠华+PDF
+《深入理解Kafka：核心设计与实践原理》_朱忠华+PDF 勘误：https://blog.csdn.net/u013256816/article/details/87834419
 
 Java核心技术 卷1 基础知识 原书第10版
 
