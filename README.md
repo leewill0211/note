@@ -1,5 +1,5 @@
 ## BookList
-《Kafka技术内幕：图文详解Kafka源码设计与实现》郑奇煌
+《Kafka技术内幕：图文详解Kafka源码设计与实现》郑奇煌 --- 有点晦涩
 
 ## TODO
 《MyBatis从入门到精通》
