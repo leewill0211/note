@@ -1,3 +1,5 @@
+https://blog.csdn.net/Lirx_Tech/article/details/42340619
+
 ## BookList
 《Kafka技术内幕：图文详解Kafka源码设计与实现》郑奇煌 --- 有点晦涩，不适合入门，可作为参考书。
 
